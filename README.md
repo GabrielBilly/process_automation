@@ -13,8 +13,11 @@
 	quanto quais indicadores aquela loja conseguiu cumprir naquele dia ou não.
 
 
-## Requisitos:
+## Inspirações e Créditos:
+	Curso PythonImpressionador - Professor Jõao Paulo Lira
 
+
+## Requisitos:
 ### Bibliotecas Utilizadas:
 	import pandas as pd
 	import smtplib
