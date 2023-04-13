@@ -5,8 +5,12 @@
 	nosso papel é conseguir criar um processo da forma mais automática possível para calcular o OnePage de cada Loja e 
 	Enviar um email para cada gerente de cada loja
 	com seu OnePage no corpo do e-mail e o arquivo completo com os dados da sua respectiva loja em anexo.
+	
+	
 ### Recomendações:
 	Como esse projeto lidamos com envio de e-mail, lembre-se de completar o código com seus dados!
+	
+	
 ### Descrição:
 	O projeto consiste em uma rede de lojas de roupa com 25 Lojas pelo Brasil
 	Todo dia pela manhã a equipe de análise de dados calcula os One Pages e envia para o gerente de cada Loja
