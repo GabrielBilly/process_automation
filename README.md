@@ -36,6 +36,6 @@
 
 ## Folders and Files Used in the Project:
 	Bases de Dados (Emails.xlsx, Lojas.csv, Vendas.xlsx)
-	Backup Arquivos Lojas (Garanta que está vazia)
+	Backup Arquivos Lojas (Make sure it's empty)
 
 ### Att, Gabriel Souza
