@@ -1,30 +1,31 @@
-# Automação Processo
+# Process Automation
+
  
-### Objetivo do Projeto:
-	Treinar e criar um Projeto que envolva automatização de um processo feito pelo computador,
-	nosso papel é conseguir criar um processo da forma mais automática possível para calcular o OnePage de cada Loja e 
-	Enviar um email para cada gerente de cada loja
-	com seu OnePage no corpo do e-mail e o arquivo completo com os dados da sua respectiva loja em anexo.
+### Project's goal:
+	Train and create a Project that involves automating a process done by the computer,
+	our role is to be able to create a process in the most automatic way possible to calculate the OnePage of each Store and
+	Send an email to each store manager
+	with your OnePage in the body of the email and the complete file with the data of your respective store attached.
 	
 	
-### Recomendações:
-	Como esse projeto lidamos com envio de e-mail, lembre-se de completar o código com seus dados!
+### Recommendations:
+	As this project deals with sending e-mails, remember to complete the code with your data!
 	
 	
-### Descrição:
-	O projeto consiste em uma rede de lojas de roupa com 25 Lojas pelo Brasil
-	Todo dia pela manhã a equipe de análise de dados calcula os One Pages e envia para o gerente de cada Loja
-	Um one Page é um breve resumo, usado pela equipe de gerência de loja para saber os principais indicadores de cada loja e permitir em 1 página,
-	quanto quais indicadores aquela loja conseguiu cumprir naquele dia ou não.
+### Description:
+	The project consists of a network of clothing stores with 25 stores throughout Brazil
+	Every morning, the data analysis team calculates the One Pages and sends them to the manager of each Store
+	A one page is a brief summary, used by the store management team to know the main indicators of each store and allow, in 1 page,
+	as to which indicators that store was able to meet that day or not.
 
 
-## Inspirações e Créditos:
-	Curso PythonImpressionador - Professor Jõao Paulo Lira
+## Inspirations and Credits:
+	PythonImpressionador - Professor Jõao Paulo Lira
 	https://www.hashtagtreinamentos.com/
 
 
-## Requisitos:
-### Bibliotecas Utilizadas:
+## Requirements:
+### Libraries Used:
 	import pandas as pd
 	import smtplib
 	from email.mime.multipart import MIMEMultipart
@@ -33,7 +34,7 @@
 	from email import encoders
 	import pathlib
 
-## Pastas e Arquivos Utilizados no Projeto:
+## Folders and Files Used in the Project:
 	Bases de Dados (Emails.xlsx, Lojas.csv, Vendas.xlsx)
 	Backup Arquivos Lojas (Garanta que está vazia)
 
